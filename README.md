@@ -1,3 +1,9 @@
+# DEPRECATION NOTICE
+
+> :warning: **IMPORTANT:** This package is no longer maintained or supported. For the latest updates, please use our new package at [crawlbase-java](https://github.com/crawlbase-source/crawlbase-java).
+
+---
+
 # ProxyCrawl
 
 Java library for scraping and crawling websites using the ProxyCrawl API.
